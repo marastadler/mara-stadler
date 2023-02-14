@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mara-stadler",
+    "title": "Mara Stadler",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD student at Helmholtz Center Munich and LMU (Ludwig-Maximilian University) Munich, supervised by Christian L. Müller. My research interests include high-dimensional statistics, with a focus on combinatorial effects, robust feature selection, and applications to high-throughput biological data."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mara Stadler",
+    "section": "News",
+    "text": "News\n…"
   }
 ]

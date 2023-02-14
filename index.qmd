@@ -1,11 +1,22 @@
 ---
-title: "mara-stadler"
+title: "Mara Stadler"
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/mara-stadler-19747417a
+    - text: Twitter
+      href: https://twitter.com/StadlerMara
+    - text: GitHub
+      href: https://github.com/marastadler
 ---
 
-This is a Quarto website.
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a PhD student at Helmholtz Center Munich and LMU (Ludwig-Maximilian University) Munich, supervised by Christian L. Müller. My research interests include high-dimensional statistics, with a focus on combinatorial effects, robust feature selection, and applications to high-throughput biological data.
 
-```{r}
-1 + 1
-```
+## News
+
+...
