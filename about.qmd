@@ -9,7 +9,7 @@ This project is done in close collaboration with Dr. Till Bartke from the Instit
 
 #### Decoding Chromatin States 
 
-Lukauskas, S., Nguyen, N. V., Tvardovskiy, A., **Stadler, M.**, Faull, P., Flynn, H., Lindeboom, R. G. H., Barth, T. K., Ravnsborg, T., Hauck, S. M., Jensen, O. N., Vermeulen, M., Snijders, A. P., Müller, C. L., Schneider, R., DiMaggio, P. A., and Bartke, T.*Decoding Chromatin States by Proteomic Profiling of Modification-Dependent Nucleosome Readers.* Submitted for publication (2022).
+Lukauskas, S., Nguyen, N. V., Tvardovskiy, A., **Stadler, M.**, Faull, P., Flynn, H., Lindeboom, R. G. H., Barth, T. K., Ravnsborg, T., Hauck, S. M., Jensen, O. N., Vermeulen, M., Snijders, A. P., Müller, C. L., Schneider, R., DiMaggio, P. A., and Bartke, T. *Decoding Chromatin States by Proteomic Profiling of Modification-Dependent Nucleosome Readers.* Submitted for publication (2022).
 
 #### RNF43 in colitis associated cancer
 
