@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "mara-stadler"
+  title: "Mara Stadler"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - teaching.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     css: styles.css
     toc: true
 
