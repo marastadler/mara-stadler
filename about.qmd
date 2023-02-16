@@ -5,7 +5,7 @@ title: "Projects"
 #### Combinatorial Epigenetics
 
 In this project, we combine chemical biology, biochemical, and proteomic approaches with cell biology and computational analyses to unravel how epigenetic effector molecules can read DNA and histone modification patterns and how they recognise different chromatin modification states. Our goal is to decipher the \"epigenetic code\" by identifying epigenetic reader molecules that can integrate information from multiple chromatin modifications and to understand how these factors operate at the molecular level both in healthy and pathological conditions. \
-This project is done in close collaboration with Dr. Till Bartke from the Institute of Functional Epigenetics at Helmholtz Zentrum München. 
+This project is done in close collaboration with [Dr. Till Bartke](https://www.helmholtz-munich.de/en/ife/staff) from the Institute of Functional Epigenetics at Helmholtz Zentrum München. 
 
 #### Decoding Chromatin States 
 
@@ -24,11 +24,11 @@ In this project we collaborate with Erwin Kupczyk from the Environmental Health 
 #### Non-negative tensor factorization on COVID-19 data
 
 *Ein Blick zurück auf die zweite Welle - wer war wann wo infiziert?*
-Mara Stadler, Göran Kauermann, Christian L. Müller. CODAG Bericht Nr. 12 (available at: <https://www.covid19.statistik.uni-muenchen.de/pdfs/codag_bericht_12.pdf>)
+**Mara Stadler**, Göran Kauermann, Christian L. Müller. CODAG Bericht Nr. 12 (available at: <https://www.covid19.statistik.uni-muenchen.de/pdfs/codag_bericht_12.pdf>)
 
 #### Statistical modeling of dynamic eye-tracking experiments
 
-Stadler, M., Doebler, P., Mertins, B. *et al.* *Statistical modeling of dynamic eye-tracking experiments: Relative importance of visual stimulus elements for gaze behavior in the multi-group case*. *Behav Res* **53**, 2650--2667 (2021). <https://doi.org/10.3758/s13428-021-01576-8>
+**Stadler, M.**, Doebler, P., Mertins, B. *et al.* *Statistical modeling of dynamic eye-tracking experiments: Relative importance of visual stimulus elements for gaze behavior in the multi-group case*. *Behav Res* **53**, 2650--2667 (2021). <https://doi.org/10.3758/s13428-021-01576-8>
 			
 		
 

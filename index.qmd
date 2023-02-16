@@ -19,11 +19,11 @@ about:
 
 ## About me
 
-I am a PhD student at Helmholtz Center Munich and LMU (Ludwig-Maximilian University) Munich, supervised by Christian L. Müller. My research interests include high-dimensional statistics, with a focus on combinatorial effects, robust feature selection, and applications to high-throughput biological data. I develop statistical workflows that take into account aspects of real-world data and thus provide novel insights in the application domain.
+I am a PhD student at Helmholtz Zentrum München and LMU (Ludwig-Maximilian University) Munich, supervised by [Christian L. Müller](https://www.statistik.uni-muenchen.de/personen/professoren/mueller/index.html). My research interests include high-dimensional statistics, with a focus on combinatorial effects, robust feature selection, and applications to high-throughput biological data. I develop statistical workflows that take into account aspects of real-world data and thus provide novel insights in the application domain.
 
 ## News
 
--    January 2023 - April 2023: Visting scholar at USC (University of Southern California) on a DAAD scholarship (Forschungsstipendium für Doktorandinnen und Doktoranden). Working with Jacob Bien.
+-    January 2023 - April 2023: Visting scholar at USC (University of Southern California) on a DAAD scholarship (Forschungsstipendium für Doktorandinnen und Doktoranden). Working with [Jacob Bien](https://faculty.marshall.usc.edu/jacob-bien/).
 
 -   February 2023: Contributed poster talk at *CSP2023*, San Francisco.
 
@@ -37,6 +37,6 @@ I am a PhD student at Helmholtz Center Munich and LMU (Ludwig-Maximilian Univers
 
 **Universitat Politècnica de Catalunya**, Erasmus
 
-**TU Dortmund University**, M.Sc. in Statistics
+**TU Dortmund**, M.Sc. in Statistics
 
-**TU Dortmund University**, B.Sc. in Statistics
+**TU Dortmund**, B.Sc. in Statistics
